@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d5c75d05-6934-48c9-aba0-e0c83510329e)
+demo-gif
+
 
 **Disclaimer**
 This software is meant to be a productive contribution to the rapidly growing AI-generated media industry. It will help artists with tasks such as animating a custom character or using the character as a model for clothing etc.
