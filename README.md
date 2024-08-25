@@ -1,5 +1,8 @@
 ![Deep Live Cam]([https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif](https://github.com/deeplivecamvfx/Deep-Live-Cam/blob/main/kv.gif))
 
+![Deep Live Cam]([https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif](https://github.com/deeplivecamvfx/Deep-Live-Cam/blob/main/kv.gif))
+
+
 More info at: https://www.deeplivecamvfx.com/
 ## Disclaimer
 This software is meant to be a productive contribution to the rapidly growing AI-generated media industry. It will help artists with tasks such as animating a custom character or using the character as a model for clothing etc.
