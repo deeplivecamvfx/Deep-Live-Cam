@@ -2,7 +2,7 @@
 
 More info at: https://www.deeplivecamvfx.com/
 
-<a href="https://www.deeplivecamvfx.com/" target="_blank">Deep Live Cam</a> - Deepfake Software
+<a href="https://www.deeplivecamvfx.com/" target="_blank">Deep Live Cam</a> - <a href="https://www.deeplivecamvfx.com/" target="_blank">Deepfake Software</a>
 
 Real-time face swap for PC streaming or video calls. You can swap your face from a webcam or the face in the video using trained face models.
 
